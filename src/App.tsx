@@ -1,16 +1,7 @@
-import { Main, OnDirectButton, Wrapper } from "./assets/styled/common";
+import HomePage from "./pages/home";
 
 function App() {
-  // const router = useRouter();
-
-  return (
-    <Main>
-      <Wrapper>
-        <p>root</p>
-        <OnDirectButton>About</OnDirectButton>
-      </Wrapper>
-    </Main>
-  );
+  return <HomePage />;
 }
 
 export default App;
