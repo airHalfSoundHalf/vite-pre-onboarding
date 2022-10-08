@@ -1,4 +1,4 @@
-import { Main, OnDirectButton, Wrapper } from "../../assets/styled/common";
+import { Main, Wrapper } from "../../assets/styled/common";
 import Link from "../../hooks/Link";
 
 const RootPage = () => {
